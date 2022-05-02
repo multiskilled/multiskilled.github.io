@@ -92,7 +92,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: #9d959521;
 }
 
 .overlay-mf {
@@ -684,6 +684,7 @@ a:hover {
   color: #fff;
   font-weight: 600;
   font-size: 3rem;
+  
 }
 @media (min-width: 768px) {
   .hero .hero-title {
