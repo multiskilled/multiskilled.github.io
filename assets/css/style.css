@@ -9,8 +9,8 @@
 # General
 --------------------------------------------------------------*/
 body {
-  background-color:  #1e1e1e;
-  color: #4e4e4e;
+  background-color:  #000000;
+  color: #ffffff;
   
 }
 
@@ -20,11 +20,11 @@ h3,
 h4,
 h5,
 h6 {
-  color: #1e1e1e;
+  color: #ffffff;
 }
 
 a {
-  color: #1e1e1e;
+  color: #000000;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -138,7 +138,7 @@ a:hover {
 /*--/ Title s /--*/
 .title-s {
   font-weight: 600;
-  color: #1e1e1e;
+  color: #ffffff;
   font-size: 1.1rem;
 }
 
@@ -156,13 +156,13 @@ a:hover {
 
 .subtitle-a {
   text-decoration: none;
-  color: #4e4e4e;
+  color: #ffffff;
 }
 
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #0078ff;
+  background-color: #e6e7e9;
   margin: 0 auto;
 }
 
@@ -192,7 +192,8 @@ a:hover {
 .box-shadow-full {
   padding: 3rem 1.25rem;
   position: relative;
-  background-color: #fff;
+  background-color: rgb(0, 0, 0);
+  opacity: 0.7;
   margin-bottom: 3rem;
   z-index: 2;
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.06), 0 2px 5px 0 rgba(0, 0, 0, 0.2);
@@ -782,7 +783,7 @@ a:hover {
 }
 
 .skill-mf span {
-  color: #4e4e4e;
+  color: #ffffff;
 }
 
 
@@ -809,7 +810,8 @@ justify-content: center;
 # Services
 --------------------------------------------------------------*/
 .service-box {
-  background-color: #fff;
+  background-color: rgb(0, 0, 0);
+  opacity: 0.6;
   padding: 2.5rem 1.3rem;
   border-radius: 1rem;
   margin-bottom: 3rem;
@@ -823,7 +825,7 @@ justify-content: center;
 }
 .service-box .service-ico {
   margin-bottom: 1rem;
-  color: #1e1e1e;
+  color: #ffffff;
 }
 .service-box .ico-circle {
   transition: all 500ms ease;
@@ -843,7 +845,7 @@ justify-content: center;
  
 }
 .service-box .s-description {
-  color: #4e4e4e;
+  color: #ffffff;
 }
 
 /*--------------------------------------------------------------
